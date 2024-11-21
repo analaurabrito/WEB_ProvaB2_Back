@@ -10,7 +10,7 @@
 
 A estrutura da API tem o controle dos modelos de usuário, posts e comentários.
 
-Esse projeto serve como backend para o restante do projeto. Para aplicá-lo à sua interface front-end, é necessário a importação e inicialização do arquivo que se encontra no [segundo repositório](https://github.com/analaurabrito/WEB_ProvaB2_Front) desse exercício.
+Esse projeto serve como Back-End para o restante do projeto. Para aplicá-lo à sua interface front-end, é necessário a importação e inicialização do arquivo que se encontra no [segundo repositório](https://github.com/analaurabrito/WEB_ProvaB2_Front) desse exercício.
 
 ## 💻 Lista de comandos
 
